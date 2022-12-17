@@ -1,4 +1,4 @@
-# Mercedes-Benz-Greener-Manufacturing
+# Mercedes_Benz_Greener_Manufacturing
 # Project objective:
   * Reduction of time spent on cars in bench
 # Task To Perform
