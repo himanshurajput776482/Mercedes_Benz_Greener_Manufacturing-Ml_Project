@@ -8,7 +8,7 @@ To ensure the safety and reliability of every unique car configuration before th
 You are required to reduce the time that cars spend on the test bench. Others will work with a dataset representing different permutations of features in a Mercedes-Benz car to predict the time it takes to pass testing. Optimal algorithms will contribute to faster testing, resulting in lower carbon dioxide emissions without reducing Mercedes-Benz’s standards.
 # Project objective:
   * Reduction of time spent on cars in bench
-# Task To Performed
+# Task Performed
   * If for any column(s), the variance was equal to zero, then removed those variable(s) because they wouldn't have any impact on the output.
   * Checked for null and unique values in train dataset.
   * Applied label encoding on categorical feature columns.
